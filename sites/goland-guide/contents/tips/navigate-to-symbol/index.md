@@ -24,6 +24,9 @@ leadin: |
   in terms of code.
 
   We are hardwired to think of moving around the "files" in our
-  project. But we have a smart IDE that makes it fast to jump to
+  project. However, we have a smart IDE that makes it fast to jump to
   the symbols in our code.
+  
+  Use _Navigate to Symbol_, _Ctrl+Alt+Shift+N on Windows/Linux_ or _⌘ + ⌥ + O on macOS_ to bring up the search window and quickly navigate your way in the project.
+   
 ---

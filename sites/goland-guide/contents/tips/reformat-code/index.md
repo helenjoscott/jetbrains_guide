@@ -1,7 +1,7 @@
 ---
 date: 2020-06-03
 title: 'Reformat Code'
-technologies: []
+technologies: [go]
 topics: [editing]
 author: dlsniper
 subtitle: 'Tell GoLand to clean up indentation and other code style in your file.'
@@ -21,6 +21,6 @@ leadin: |
   *If re-indenting your code or fixing long lines doesn't
   sound fun, let GoLand do it for you.*
 
-  If there's one action that you'll do constantly, it's this one:
-  ``Reformat Code`` makes it a piece of cake to fix style warnings.
+  _Reformat Code_, _Ctrl + Alt + L on Windows/Linux_ or _⌘ + ⌥ + L on macOS_, makes it a piece of cake to fix style warnings and make your code formatted like gofmt would.
+
 ---

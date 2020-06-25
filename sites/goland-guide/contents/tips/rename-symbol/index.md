@@ -18,5 +18,7 @@ leadin: |
 
     Put your cursor on a symbol and refactor it. All usages in the
     project change with it.
+    
+    Use _Shift + F6 on Windows/Linux_ or _⇧ + F6 on macOS_, to invoke the _Rename Refactoring_.
 
 ---

@@ -18,10 +18,10 @@ shortVideo:
 leadin: |
   *The no-distraction way to work with your files.*
 
-  Minimal UI means no project tool window or Navigation Bar.  But
+  Minimal UI means no project tool window or _Navigation Bar_.  But
   how do you then move around files?
 
-  Bring the Navigation Bar up as-needed, without the mouse. Do
+  Bring the _Navigation Bar_, Alt + Home on Windows/Linux_ or _⌘ + Up on macOS_, up as-needed, without the mouse. Do
   what you need, then the popup disappears.
 
 ---

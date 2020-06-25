@@ -15,6 +15,6 @@ leadin: |
   shortcuts?*
 
   Get to GoLand tool windows from the Recent Files popup. Now that you
-  know ``Recent Files``, put it to use for getting  to the tools windows
-  such as ``Project`` and ``Version Control``.
+  know _Recent Files_, Ctrl + E on Windows/Linux, ⌘ + E on macOS, put it to use for getting  to the tools windows
+  such as _Project_ and _Database_.
 ---

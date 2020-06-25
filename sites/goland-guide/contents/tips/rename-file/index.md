@@ -1,7 +1,7 @@
 ---
 date: 2020-06-03
 title: 'Rename a File and Its References'
-technologies: []
+technologies: [go]
 topics: [editing]
 author: dlsniper
 subtitle: 'Change your mind on a file name, and the IDE makes all the changes for you.'
@@ -18,6 +18,6 @@ leadin: |
 
     Changed your name about what you named a file but terrified of all
     the places it might be used? You might not remember, but the IDE does.
-    Let the "Rename Refactoring" do the work, safely and quickly.
+    Let the _Rename Refactoring_, _Shift + F6 on Windows/Linux_ or _⇧ + F6 on macOS_, do the work, safely and quickly.
 
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2020-06-03
 title: Reword Commit Message
-technologies: []
+technologies: [go]
 topics: [vcs]
 author: dlsniper
 subtitle: Change the wording in your last commit message, after you committed.
@@ -16,8 +16,8 @@ shortVideo:
 leadin: |
     *Fix that message.*
 
-    It always happens: as soon as you click `Commit`, you spot the typo
-    in the message or remember a change. Use the VCS Log's `Reword` to
+    It always happens: as soon as you click _Commit_, you spot the typo
+    in the message or remember a change. Use the VCS Log's _Reword_, _F2 on Windows/Linux/macOS_, to
     fix it.
 
 ---

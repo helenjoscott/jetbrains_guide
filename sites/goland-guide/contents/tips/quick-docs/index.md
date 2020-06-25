@@ -20,4 +20,6 @@ leadin: |
     docstring. Let it give you a non-interrupting window, letting you get
     back to work.
 
+    Invoke the _Quick Documentation_ feature using _Ctrl + Q on Windows/Linux_ or _F1 on macOS_, learn more about the different symbols you're working with.
+
 ---

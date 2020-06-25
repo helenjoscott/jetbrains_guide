@@ -18,10 +18,10 @@ shortVideo:
 leadin: |
   *Unsorted imports. Unused imports. No problem -- Optimize Imports.*
 
-  GoLand's ``Optimize Imports`` action is every Go developer's
-  second-best friend. Along with ``Reformat Code``, it keeps your
+  GoLand's _Optimize Imports_,  action is every Go developer's
+  second-best friend. Along with _Reformat Code_, it keeps your
   code quality tools happy is a piece of cake.
   
-  Optimize Imports is enabled by default in Reformat Code, so you don't
+  _Optimize Imports_ is enabled by default in _Reformat Code_, _Ctrl + Alt + L on Windows/Linux_ or _⌘ + ⌥ + L on macOS_, so you don't
   need to do anything extra to use it!
 ---

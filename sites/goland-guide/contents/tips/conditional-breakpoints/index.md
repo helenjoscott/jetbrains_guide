@@ -16,7 +16,7 @@ shortVideo:
 leadin: |
     *Stop stepping.*
 
-    Have a breakpoint in a loop and find yourself clicking `Continue`
+    Have a breakpoint in a loop and find yourself clicking _Continue_
     repeatedly? Change your breakpoint to only stop when a condition is met.
 
 ---

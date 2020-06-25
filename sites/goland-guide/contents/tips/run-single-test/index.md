@@ -21,4 +21,5 @@ leadin: |
   Want to focus your testing on just one test? GoLand has
   many ways to tell the test runner and UI: "Just this."
 
+  Use the dedicated shortcut, _Ctrl + Shift + F10 on Windows/Linux_ or _^ + ⇧ + R on macOS_, to launch the test.
 ---

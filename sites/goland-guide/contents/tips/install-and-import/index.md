@@ -16,7 +16,9 @@ shortVideo:
 leadin: |
   *Type the symbol, let your IDE install the package and write the import.*
 
-  IDEs are great at janitorial work. GoLand can generate your import for you, even
-  when you haven't installed the  package.
+  GoLand can generate your import for you, even
+  when you haven't installed the package.
+  
+  Press _Alt + Enter on Windows/Linux_ or _⌥ + Enter on macOS_ to invoke the list of quickfixes on the red import line and select _Sync packages of <project\>_ to import the package into your project.
 
 ---

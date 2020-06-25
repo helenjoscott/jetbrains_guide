@@ -17,7 +17,7 @@ leadin: |
   *Diving into a codepath and want to get retrace your steps?*
 
   Sometimes you dive into a codepath and can't find your way back.  Dive
-  with confidence, letting the IDE remember your cursor position. Backward
-  *and* forward.
+  with confidence, letting the IDE remember your cursor position. _Backward_, _Ctrl + Alt + Left on Windows/Linux_ or _⌘ + [ on macOS_, 
+  *and* Forward, _Ctrl + Alt + Right on Windows/Linux_ or _⌘ + ] on macOS_.
 
 ---
