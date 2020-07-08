@@ -18,5 +18,7 @@ leadin: |
 
   Want to use your keyboard but can't memorize all the shortcuts? Find
   actions by search, using speed typing.
+  
+  Use _Ctrl + Shift + A on Windows/Linux_ or _⌘ + Shift + A on macOS_ to invoke the _Find Action_ feature and change the make the IDE behave the way you want it to.
 
 ---
